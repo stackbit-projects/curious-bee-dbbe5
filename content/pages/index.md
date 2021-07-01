@@ -15,7 +15,7 @@ sections:
       - content/pages/products/plant7.md
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/logo.svg
     background_image_opacity: 65
     content: >-
       # Real, beautiful plants right to your door
